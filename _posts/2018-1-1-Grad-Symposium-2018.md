@@ -4,8 +4,8 @@ title: 11th Annual MSE Graduate Symposium
 comments: true
 ---
 
-Time: April 20, 2018
-Location: Doherty Hall A302/303, CMU
+- Time: April 20, 2018
+- Location: Doherty Hall A302/303, CMU
 
 The one-day symposium will highlight research projects of graduating MSE PhD students.
 

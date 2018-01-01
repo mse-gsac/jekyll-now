@@ -14,8 +14,8 @@ Click on the red button that says "Register Now" for the Sunday Afternoon time s
 
 As you go through the registration process, at some point it will ask if you would like to join a team. Select "join existing team" and enter the following information to join the CMU MSE team:
 
-Team Name: Heavy Metal
-Password: materials
+- Team Name: Heavy Metal
+- Password: materials
 
 One final bit of information regarding registration: select 1215pm - 100pm for the preferred afternoon start time (the first of 3 options).
 
