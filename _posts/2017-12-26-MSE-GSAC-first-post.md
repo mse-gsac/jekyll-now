@@ -1,8 +1,15 @@
 ---
 layout: post
-title: MSE-GSAC First Post
+title: MSE-GSAC Webpage Grand Opening!
+comments: true
 ---
 
 ## Welcome to MSE-GSAC!
 
-From now on MSE-GSAC will be very interesting. Cheers!
+From now on all MSE-GSAC events and other important information will be posted here. Cheers!
+
+![cat paw pew](https://media.giphy.com/media/3o6wO3DM308zFe6y4M/giphy.gif)
+
+If you have any comments or suggestions on webpage functionalities/structure please comment below.
+
+--Tim
