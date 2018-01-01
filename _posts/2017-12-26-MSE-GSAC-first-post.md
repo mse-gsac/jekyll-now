@@ -12,4 +12,5 @@ From now on all MSE-GSAC events and other important information will be posted h
 
 If you have any comments or suggestions on webpage functionalities/structure please comment below.
 
+Also, Merry Christmas and Happy New Year,
 --Tim
