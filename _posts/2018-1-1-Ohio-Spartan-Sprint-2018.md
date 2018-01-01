@@ -10,9 +10,7 @@ We are organizing an MSE spartan race team!
 
 ![this is sparta](https://media.giphy.com/media/10HflbiC5teOB2/giphy.gif)
 
-Some of you have showed interest in joining the MSE department spartan race team! To register, go to the following link:
-
-https://www.spartan.com/en/race/detail/3280/overview?filter=sprint
+Some of you have showed interest in joining the MSE department spartan race team! To register, go to this [link](https://www.spartan.com/en/race/detail/3280/overview?filter=sprint)
 
 Click on the red button that says "Register Now" for the Sunday Afternoon time slot; this should be the least expensive option. It should be noted that the longer you wait to register, the more expensive registration will be (there are three price brackets).
 
