@@ -4,11 +4,9 @@ title: Ohio Spartan Sprint 2018
 comments: true
 ---
 
-Hello All!
-
 We are organizing an MSE spartan race team!
 
-![this is sparta](https://media.giphy.com/media/10HflbiC5teOB2/giphy.gif)
+![this is sparta!](https://media.giphy.com/media/10HflbiC5teOB2/giphy.gif)
 
 Some of you have showed interest in joining the MSE department spartan race team! To register, go to this [link](https://www.spartan.com/en/race/detail/3280/overview?filter=sprint)
 
