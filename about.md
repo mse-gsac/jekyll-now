@@ -16,7 +16,7 @@ Graduate Student Advisory Committee (GSAC) is the organization for graduate stud
 - Rafael Giacomin
 - Ke-Wei (Kuai-Kuai) Jin
 - Alice Perrin
-- Ankita Mangal
+- Natan Aronhime
 - Tim Hsu
 
 ### Contact Us
