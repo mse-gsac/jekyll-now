@@ -12,4 +12,4 @@ Last summer, presentations covered a broad range of topics, including "Counterme
 
 The topics for this year are TBD; if anyone has any suggestions for topics feel free to contact any GSAC rep.
 
-- Mary
+-- Mary
