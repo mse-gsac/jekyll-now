@@ -6,6 +6,8 @@ comments: true
 
 We are organizing an MSE spartan race team!
 
+Race Date: Sunday, June 3rd, 2018
+
 ![this is sparta!](https://media.giphy.com/media/10HflbiC5teOB2/giphy.gif)
 
 1/1/2018
