@@ -9,6 +9,8 @@
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
+
 /**************/
 /* BASE RULES */
 /**************/
@@ -19,7 +21,9 @@ html {
 
 body {
 	background: $white;
+//   font: 18px/1.4 $helvetica;
   font: 18px/1.4 $helvetica;
+  font-family: 'PT Sans', sans-serif;
   color: $darkGray;
 }
 
