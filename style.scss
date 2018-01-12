@@ -40,16 +40,16 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Merriweather', serif;
+  font-family: 'Open Sans', sans-serif;
   color: $darkerGray;
   font-weight: bold;
 
-  line-height: 1.0;
+  line-height: 1.4;
   margin: 1em 0 15px;
   padding: 0;
 
   @include mobile {
-    line-height: 1.0;
+    line-height: 1.2;
   }
 }
 
@@ -204,7 +204,7 @@ img {
   color: $darkGray;
   cursor: pointer;
   // font-family: $helveticaNeue;
-  font-family: 'Merriweather', serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: bold;
   font-size: 30px;
   letter-spacing: 1px;
@@ -225,7 +225,7 @@ nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   // font-family: $helveticaNeue;
-  font-family: 'Merriweather', serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: bold;
   font-size: 18px;
 
