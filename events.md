@@ -9,7 +9,7 @@ permalink: /events/
 ### January
 -
 
-### Feburary
+### February
 - [ASM Young Members Night](https://mse-gsac.github.io/ASM-Young-Members-Night-2018/)
 
 ### March
