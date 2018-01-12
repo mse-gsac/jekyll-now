@@ -9,7 +9,7 @@
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
-@import url('https://fonts.googleapis.com/css?family=Merriweather|Montserrat|Open+Sans|PT+Sans');
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Montserrat|Open+Sans|PT+Sans|PT+Sans+Caption');
 
 /**************/
 /* BASE RULES */
@@ -22,13 +22,13 @@ html {
 body {
 	background: $white;
 //   font: 18px/1.4 $helvetica;
-  font-size: 18px;
+  font-size: 20px;
   line-height: 1.6;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'PT Sans', sans-serif;
   color: $darkGray;
 
   @include mobile {
-    font-size: 14px;
+    font-size: 16px;
   }
 }
 
@@ -40,7 +40,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'PT Sans Caption', sans-serif;
+  letter-spacing: -1px;
   color: $darkerGray;
   font-weight: bold;
 
@@ -204,7 +205,8 @@ img {
   color: $darkGray;
   cursor: pointer;
   // font-family: $helveticaNeue;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'PT Sans Caption', sans-serif;
+  letter-spacing: -1px;
   font-weight: bold;
   font-size: 30px;
   letter-spacing: 1px;
@@ -214,7 +216,7 @@ img {
   margin: -5px 0 0 0;
   color: $gray;
   font-size: 16px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'PT Sans', sans-serif;
 
   @include mobile {
     margin: 3px 0;
@@ -225,7 +227,8 @@ nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   // font-family: $helveticaNeue;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'PT Sans Caption', sans-serif;
+  letter-spacing: -1px;
   font-weight: bold;
   font-size: 18px;
 
