@@ -9,7 +9,7 @@
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
-@import url('https://fonts.googleapis.com/css?family=PT+Sans');
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Montserrat|Open+Sans|PT+Sans');
 
 /**************/
 /* BASE RULES */
@@ -22,13 +22,13 @@ html {
 body {
 	background: $white;
 //   font: 18px/1.4 $helvetica;
-  font-size: 20px;
-  line-height: 1.8;
-  font-family: 'PT Sans', sans-serif;
+  font-size: 18px;
+  line-height: 1.6;
+  font-family: 'Open Sans', sans-serif;
   color: $darkGray;
-  
+
   @include mobile {
-    font-size: 18px;
+    font-size: 14px;
     line-height: 1.4;
   }
 }
@@ -36,21 +36,21 @@ body {
 .container {
   margin: 0 auto;
   max-width: 740px;
-  padding: 0 10px;
+  padding: 0 16px;
   width: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: 'Merriweather', serif;
   color: $darkerGray;
   font-weight: bold;
 
-  line-height: 1.7;
+  line-height: 1.0;
   margin: 1em 0 15px;
   padding: 0;
 
   @include mobile {
-    line-height: 1.4;
+    line-height: 1.0;
   }
 }
 
@@ -204,7 +204,8 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  // font-family: $helveticaNeue;
+  font-family: 'Merriweather', serif;
   font-weight: bold;
   font-size: 30px;
   letter-spacing: 1px;
@@ -214,6 +215,7 @@ img {
   margin: -5px 0 0 0;
   color: $gray;
   font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
 
   @include mobile {
     margin: 3px 0;
@@ -223,7 +225,8 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  // font-family: $helveticaNeue;
+  font-family: 'Merriweather', serif;
   font-weight: bold;
   font-size: 18px;
 
