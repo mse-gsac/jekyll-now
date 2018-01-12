@@ -19,6 +19,7 @@ The plan is rather specific and can be boiled down to this: practice bodyweight 
 If anyone needs a running buddy, Mary is in the early stages of training for a half-marathon and would be happy to share running routs/organize short group runs (contact at mstory@andrew.cmu.edu)!
 
 
+
 1/1/2018
 
 Some of you have showed interest in joining the MSE department spartan race team! To register, go to this [link](https://www.spartan.com/en/race/detail/3280/overview?filter=sprint)
