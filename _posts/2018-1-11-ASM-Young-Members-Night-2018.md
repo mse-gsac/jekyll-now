@@ -20,6 +20,13 @@ Life After Grad School: The Early Years
 
 
 ### Student Speaker:
-TBA
+Ross Cunningham
+
 ### Topic:
-Additive Manufacturing
+Additive Manufacturing (abstract coming soon!)
+
+### Poster Contest
+There will be a poster contest for all undergraduate and graduate students in the Pittsburgh area (though not mandatory for event attendees)! Come show all of your hard work for a chance to win a cash prize! Posters will be judged on technical content (50%), quality of illustrations (30%), and quality of layout/ illustration (20%). Your name and school will be covered to remove any biases the judges may carry. Your poster will be judged on its own; there will be no speaking to the judges!
+
+Be on the lookout for more information in the next few weeks regarding speakers and registration! We'll feature two speakers at this event: one from industry and one student speaker. 
+Poster judging: 5:30pm - 6:30pm
