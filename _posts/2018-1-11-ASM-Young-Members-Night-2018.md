@@ -7,7 +7,7 @@ comments: true
 - Time: February 15, 2018 5:30 pm - 9:00 pm
 - Location: University Club, 123 University Place, Pittsburgh, PA 15260
 
-The 32nd Annual ASM Young Members Night is around the corner! There will be a dinner provided for free to any students who RSVP before Feb. 9, 2018 at noon!
+The 32nd Annual ASM Young Members Night is around the corner! There will be a dinner provided for free to any students who [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSdqnxSWCSabRwEp_uQcZj_nEQvoXdVxGc29d2gMIwtkEe6uPg/viewform) before Feb. 9, 2018 at noon!
 
 ASM Young Members’ Night engages undergraduate and graduate materials science students at the University of Pittsburgh, Carnegie Mellon University, and Robert Morris University by fostering the development of relationships between students and professionals in local industries.
 
